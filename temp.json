@@ -1,0 +1,23 @@
+{"workflow":
+    {
+		"activity_list": [
+				{"1": "You are required to select a suitable engine architecture for a new aircraft design."},
+				{"2": "You are required to perform an optimisation routine on a HP turbine disk."},
+				{"3": "You are required to write a paper on Multi-disciplinary optimisation."}	
+        ],	
+
+        "task_list": [
+            {
+            "1": {
+                    "detail": "Future Aircraft Systems Ltd are designing a new blended composite wing body transport aircraft, they require Rolls-Royce to respond with an initial architecture.  We already have the high-level requirements"},
+                    "requirements": [
+                        {"1": "Initial Cost requirement"},
+                        {"2": "Thrust requirement"},
+                        {"3": "Fuel Efficiency requirement"}, 
+                        {"4": "Operational cost efficiency requirement"},
+                        {"5": "Weight requirement"}
+                    ]
+                }
+        ]
+	}
+}

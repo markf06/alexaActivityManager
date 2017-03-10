@@ -1,0 +1,46 @@
+{
+  "intents": [
+    {
+      "intent": "NewSession"
+    },
+    {
+      "intent": "GetActivities"
+    },
+    {
+      "intent": "GetActivity",
+      "slots": [
+        {
+          "name": "Activity",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "GetRequirements"
+    },
+    {
+      "intent": "GetRequirement",
+      "slots": [
+        {
+          "name": "Requirement",
+          "type": "AMAZON.NUMBER"
+        }       
+      ]
+    },
+{
+      "intent": "SelectArchitecture",
+      "slots": [
+        {
+          "name": "Architecture",
+          "type": "AMAZON.NUMBER"
+        }       
+      ]
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}

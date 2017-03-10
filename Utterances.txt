@@ -1,0 +1,9 @@
+NewSession start
+GetActivities list the activities
+GetActivities show me my activities
+GetActivities show me my inbox
+GetActivity show me activity {Activity}
+GetActivity get activity {Activity}
+GetRequirements list the requirements
+GetRequirements list the requirements for activity {Activity}
+GetRequirement show the detail for requirement {Requirement}
