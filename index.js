@@ -1,6 +1,7 @@
 /* eslint-disable  func-names */
 /* eslint quote-props: ["error", "consistent"]*/
 /**
+ * History:
  **/
  
 'use strict';
